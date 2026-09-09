@@ -37,4 +37,4 @@ https://www.xyplorer.com/whatsnew.php#current
 
 ## 下载地址
 
-**XYplorer 28.30.2500 绿色版**
+[XYplorer 28.30.2500 绿色版](https://raw.githubusercontent.com/vtechdot/XYplorer/refs/heads/main/XYplorer.28.30.2500.x64.Green.7z)
